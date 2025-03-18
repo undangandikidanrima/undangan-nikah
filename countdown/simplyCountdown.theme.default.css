@@ -1,13 +1,13 @@
 .simply-countdown {
   overflow: hidden;
   display: table;
-  margin: auto;
+  margin: center;
 }
 .simply-countdown > .simply-section {
   width: 30px;
   height: 30px;
   padding: 40px;
-  display: flex;
+  display: center;
   align-items: center;
   justify-content: center;
   float: left;
